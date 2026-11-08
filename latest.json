@@ -1,11 +1,11 @@
 {
   "name": "Slopper Studio 1.0 Beta",
   "version": "1.0 Beta",
-  "build": "2026.11.08.3",
-  "tag": "v2026.11.08.3",
+  "build": "2026.11.08.4",
+  "tag": "v2026.11.08.4",
   "file": "downloads/Slopper-Studio-Setup.exe",
-  "size": 1489992,
-  "sha256": "177661997e27764a83f55c4e0cdf386576a112adc4fdbbd1690077221fb497a1",
+  "size": 1615609,
+  "sha256": "6cd34d99f34afb4fcf8826569822e85e1eae9a7c22a988ca04a8952a5298dcf5",
   "date": "2026-11-08",
   "notes": "First public beta.\n- Video: Seedance 2.5, Kling 4.0, MiniMax H3 (kie.ai or fal)\n- Image: GPT Image 2.6 / 2.5, Nano Banana, FLUX 3\n- Workflows with right-click steps, character packs, master backgrounds, storyboard tools (alpha)\n- Free local upscaling, pro video player, Claude / ChatGPT / Gemini docks\n- Only you can start generations\n- Updates from Settings -> Updates"
 }
