@@ -1,19 +1,19 @@
 {
   "name": "Slopper Studio 1.0 Beta",
   "version": "1.0 Beta",
-  "build": "2026.11.08.4",
-  "tag": "v2026.11.08.4",
+  "build": "2026.11.08.6",
+  "tag": "v2026.11.08.6",
   "file": "downloads/Slopper-Studio-Setup.exe",
-  "size": 1615609,
-  "sha256": "6cd34d99f34afb4fcf8826569822e85e1eae9a7c22a988ca04a8952a5298dcf5",
+  "size": 1616889,
+  "sha256": "1386770a561a4294dcaeef55915f12c7f8c389bcc4aa23c5bb6e49e4f2c0d5ba",
   "date": "2026-11-08",
-  "notes": "First public beta.\n- Video: Seedance 2.5, Kling 4.0, MiniMax H3 (kie.ai or fal)\n- Image: GPT Image 2.6 / 2.5, Nano Banana, FLUX 3\n- Workflows with right-click steps, character packs, master backgrounds, storyboard tools (alpha)\n- Free local upscaling, pro video player, Claude / ChatGPT / Gemini docks\n- Only you can start generations\n- Updates from Settings -> Updates",
+  "notes": "New: Topview T1 video model (Topview API Platform key) — about 40% of Seedance 2.5's 1080p price.\n- Markup tool icon fixed\n- Window fits smaller screens\n\n1.0 Beta: Seedance 2.5, Kling 4.0, MiniMax H3, Topview T1, GPT Image 2.6 / 2.5, Nano Banana, FLUX 3; workflows, character packs, master backgrounds, storyboard tools (alpha), local upscaling, Claude / ChatGPT / Gemini.",
   "mac": {
     "name": "Slopper Studio 1.0 Beta · Mac Alpha Preview",
-    "build": "2026.11.08.5",
+    "build": "2026.11.08.6",
     "file": "downloads/Slopper-Studio-Mac.dmg",
-    "size": 28116197,
-    "sha256": "06d7fbe1054cfe9df0fb76b779543e90ab9c49a7ae4806410f2c4eefc9d16df7",
-    "notes": "Mac Alpha Preview: first Mac version (Apple Silicon). Chat buttons open Claude / ChatGPT / Gemini in their own windows; local upscaling is Windows-only."
+    "size": 28130608,
+    "sha256": "0093def549bbb33f5cdbcca1597bdfe79986ba099ffc9e5630f9f0d025dcbcf6",
+    "notes": "Adds Topview T1. Mac Alpha Preview: first Mac version (Apple Silicon). Chat buttons open Claude / ChatGPT / Gemini in their own windows; local upscaling is Windows-only."
   }
 }

@@ -1,7 +1,7 @@
 # Slopper Studio — downloads
 
 **Your own AI image & video studio, on your own API keys.** Type a prompt and press Generate — or build node workflows
-when you need more. Seedance 2.5, Kling 4.0, MiniMax H3, GPT Image 2.6, Nano Banana and FLUX 3 in one desktop app,
+when you need more. Seedance 2.5, Kling 4.0, MiniMax H3, Topview T1, GPT Image 2.6, Nano Banana and FLUX 3 in one desktop app,
 with a library, a frame-accurate video player and ready-made tools (character packs, master backgrounds, camera angles
 from a master, mark-up edits, storyboards).
 
@@ -12,8 +12,8 @@ from a master, mark-up edits, storyboards).
 
 | | Download | Version |
 |---|---|---|
-| **Windows 10 / 11** | **[⬇ Slopper Studio Setup.exe](https://github.com/SakoKiller1986/Slopper-studio-releases/raw/main/downloads/Slopper-Studio-Setup.exe)** | 1.0 Beta (build 2026.11.08.4) |
-| **macOS — Alpha Preview** (Apple Silicon M1 or newer, macOS 12+) | **[⬇ Slopper-Studio-Mac.dmg](https://github.com/SakoKiller1986/Slopper-studio-releases/raw/main/downloads/Slopper-Studio-Mac.dmg)** | 1.0 Beta · Mac Alpha Preview (build 2026.11.08.5) |
+| **Windows 10 / 11** | **[⬇ Slopper Studio Setup.exe](https://github.com/SakoKiller1986/Slopper-studio-releases/raw/main/downloads/Slopper-Studio-Setup.exe)** | 1.0 Beta (build 2026.11.08.6) |
+| **macOS — Alpha Preview** (Apple Silicon M1 or newer, macOS 12+) | **[⬇ Slopper-Studio-Mac.dmg](https://github.com/SakoKiller1986/Slopper-studio-releases/raw/main/downloads/Slopper-Studio-Mac.dmg)** | 1.0 Beta · Mac Alpha Preview (build 2026.11.08.6) |
 
 ### Windows
 Run the installer and choose where to install. If Windows says "Windows protected your PC", click **More info → Run anyway**.
