@@ -7,5 +7,13 @@
   "size": 1615609,
   "sha256": "6cd34d99f34afb4fcf8826569822e85e1eae9a7c22a988ca04a8952a5298dcf5",
   "date": "2026-11-08",
-  "notes": "First public beta.\n- Video: Seedance 2.5, Kling 4.0, MiniMax H3 (kie.ai or fal)\n- Image: GPT Image 2.6 / 2.5, Nano Banana, FLUX 3\n- Workflows with right-click steps, character packs, master backgrounds, storyboard tools (alpha)\n- Free local upscaling, pro video player, Claude / ChatGPT / Gemini docks\n- Only you can start generations\n- Updates from Settings -> Updates"
+  "notes": "First public beta.\n- Video: Seedance 2.5, Kling 4.0, MiniMax H3 (kie.ai or fal)\n- Image: GPT Image 2.6 / 2.5, Nano Banana, FLUX 3\n- Workflows with right-click steps, character packs, master backgrounds, storyboard tools (alpha)\n- Free local upscaling, pro video player, Claude / ChatGPT / Gemini docks\n- Only you can start generations\n- Updates from Settings -> Updates",
+  "mac": {
+    "name": "Slopper Studio 1.0 Beta · Mac Alpha Preview",
+    "build": "2026.11.08.5",
+    "file": "downloads/Slopper-Studio-Mac.dmg",
+    "size": 28116197,
+    "sha256": "06d7fbe1054cfe9df0fb76b779543e90ab9c49a7ae4806410f2c4eefc9d16df7",
+    "notes": "Mac Alpha Preview: first Mac version (Apple Silicon). Chat buttons open Claude / ChatGPT / Gemini in their own windows; local upscaling is Windows-only."
+  }
 }
