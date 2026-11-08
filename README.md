@@ -5,7 +5,10 @@ Slopper Studio is a Windows desktop app for AI image and video generation with y
 
 ## Download
 
-Get **Slopper Studio Setup.exe** from the [latest release](../../releases/latest), run it and choose where to install.
+**[⬇ Download Slopper Studio Setup.exe](https://github.com/SakoKiller1986/Slopper-studio-releases/raw/main/downloads/Slopper-Studio-Setup.exe)** — current version: **1.0 Beta** (build 2026.11.08.3)
+
+Run it and choose where to install. If Windows says "Windows protected your PC", click **More info → Run anyway**.
+The first time it opens, it asks where to keep your library.
 The app updates itself: Settings → Updates → Check for updates.
 
 ## Licence
