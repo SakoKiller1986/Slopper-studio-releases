@@ -13,5 +13,5 @@ The app updates itself: Settings → Updates → Check for updates.
 
 ## Licence
 
-Free to use, not open source. © 2026 Ultimate Ai Slopper — all rights reserved.
+Free to use, not open source. © 2026 SakoKiller1986 — all rights reserved.
 Please don't re-share the installer; send people to this page instead. The licence is shown in the installer.
