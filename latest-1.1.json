@@ -2,19 +2,19 @@
   "name": "Slopper Studio 1.1 Experimental",
   "version": "1.1 Experimental",
   "date": "2026-11-08",
-  "notes": "Seedance in full: keyframes, reference roles (the app writes which @Image is what, with a preview of the prompt sent), extend sequel/prequel, and 480p draft to 1080p final of the same take. Help text is now behind ? icons (hover to read). Video thumbnails and video info without ffmpeg. Workflows, tools, storyboards and upscaling are still in 1.0 Beta.",
+  "notes": "Workflows (node graph, approvals, versions, templates; 1.0's workflows and new files brought over), all 13 Tools (character pack, masters, camera angles from boxes, versions, mark up & edit, mask edit, storyboard → keyframes alpha, shot chain, draft → final, batch, prompt matrix, compare), Claude / ChatGPT connection (they send workflows, only you run them), Claude / ChatGPT / Gemini side panel, Blue & gold theme, title bar in the theme's colours, new logo, Help & manual. Local upscaling is still in 1.0 Beta.",
   "windows": {
-    "build": "2026.11.08.1103",
+    "build": "2026.11.08.1108",
     "file": "downloads/Slopper-Studio-1.1-Experimental-Setup.exe",
     "url": "https://github.com/SakoKiller1986/Slopper-studio-releases/raw/main/downloads/Slopper-Studio-1.1-Experimental-Setup.exe",
-    "size": 6377092,
-    "sha256": "563910884d05031558f997053bb6da3b99d0695284a0a842bd6e6c67a9cdf4cb"
+    "size": 7856006,
+    "sha256": "76ba3622238f8d25386c9e7a5d7b5509fe3f69a57af90c546b65c552233825f3"
   },
   "mac": {
-    "build": "2026.11.08.1103",
+    "build": "2026.11.08.1108",
     "file": "downloads/Slopper-Studio-1.1-Experimental-Mac.dmg",
     "url": "https://github.com/SakoKiller1986/Slopper-studio-releases/raw/main/downloads/Slopper-Studio-1.1-Experimental-Mac.dmg",
-    "size": 10272454,
-    "sha256": "77cc784959493692db310d7b818ad9171efbff4fff6f85543e6663c45ddb1599"
+    "size": 12196953,
+    "sha256": "7ac7d823f1aa51cd9c27e13eea8a779c921ee910bd82202a70ebbd2f13b729d5"
   }
 }
