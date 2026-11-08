@@ -2,19 +2,19 @@
   "name": "Slopper Studio 1.1 Experimental",
   "version": "1.1 Experimental",
   "date": "2026-11-08",
-  "notes": "Workflows (node graph, approvals, versions, templates; 1.0's workflows and new files brought over), all 13 Tools (character pack, masters, camera angles from boxes, versions, mark up & edit, mask edit, storyboard → keyframes alpha, shot chain, draft → final, batch, prompt matrix, compare), Claude / ChatGPT connection (they send workflows, only you run them), Claude / ChatGPT / Gemini side panel, Blue & gold theme, title bar in the theme's colours, new logo, Help & manual. Local upscaling is still in 1.0 Beta.",
+  "notes": "Fixes: picking a file from the library in workflows (a File step could freeze the app) and every Upload button / file drop. Also in 1.1: Workflows, all 13 Tools, Claude / ChatGPT connection and side panel, Blue & gold theme, themed title bar, new logo, Help & manual. Local upscaling is still in 1.0 Beta.",
   "windows": {
-    "build": "2026.11.08.1108",
+    "build": "2026.11.08.1109",
     "file": "downloads/Slopper-Studio-1.1-Experimental-Setup.exe",
     "url": "https://github.com/SakoKiller1986/Slopper-studio-releases/raw/main/downloads/Slopper-Studio-1.1-Experimental-Setup.exe",
-    "size": 7856006,
-    "sha256": "76ba3622238f8d25386c9e7a5d7b5509fe3f69a57af90c546b65c552233825f3"
+    "size": 7854720,
+    "sha256": "6f7f39660c2fb501c6ad0cf0515ee50a4040c1490ed956f9bf405d6c9e024f24"
   },
   "mac": {
-    "build": "2026.11.08.1108",
+    "build": "2026.11.08.1109",
     "file": "downloads/Slopper-Studio-1.1-Experimental-Mac.dmg",
     "url": "https://github.com/SakoKiller1986/Slopper-studio-releases/raw/main/downloads/Slopper-Studio-1.1-Experimental-Mac.dmg",
-    "size": 12196953,
-    "sha256": "7ac7d823f1aa51cd9c27e13eea8a779c921ee910bd82202a70ebbd2f13b729d5"
+    "size": 12198918,
+    "sha256": "70e002bdafceb22cd93081ff78baba51b21cbd83ffabbd0007db06830c98c9c3"
   }
 }
