@@ -1,0 +1,20 @@
+{
+  "name": "Slopper Studio 1.1 Experimental",
+  "version": "1.1 Experimental",
+  "date": "2026-11-08",
+  "notes": "Clean-sheet rewrite in Rust: faster, smaller (6 MB installer), keys in the system keychain. Generate, Images, Videos, viewer and player, Settings, four themes. Takes over keys, settings and library from 1.0 on first launch. Workflows, tools, storyboards and upscaling are still in 1.0 Beta.",
+  "windows": {
+    "build": "2026.11.08.1101",
+    "file": "downloads/Slopper-Studio-1.1-Experimental-Setup.exe",
+    "url": "https://github.com/SakoKiller1986/Slopper-studio-releases/raw/main/downloads/Slopper-Studio-1.1-Experimental-Setup.exe",
+    "size": 6277635,
+    "sha256": "0df287a2b6116f373da11efe19e8c0bf99686a775bffcdc71af0d78ba2a56a85"
+  },
+  "mac": {
+    "build": "2026.11.08.1101",
+    "file": "downloads/Slopper-Studio-1.1-Experimental-Mac.dmg",
+    "url": "https://github.com/SakoKiller1986/Slopper-studio-releases/raw/main/downloads/Slopper-Studio-1.1-Experimental-Mac.dmg",
+    "size": 10123063,
+    "sha256": "0f975fadc6d36eabfcd1bfce42f7bcc0649a0f6294d6c42145445dbee45a02ac"
+  }
+}
