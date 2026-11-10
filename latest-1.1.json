@@ -2,19 +2,19 @@
   "name": "Slopper Studio 1.1 Experimental",
   "version": "1.1 Experimental",
   "date": "2026-11-08",
-  "notes": "Fixes: picking a file from the library in workflows (a File step could freeze the app) and every Upload button / file drop. Also in 1.1: Workflows, all 13 Tools, Claude / ChatGPT connection and side panel, Blue & gold theme, themed title bar, new logo, Help & manual. Local upscaling is still in 1.0 Beta.",
+  "notes": "New pixel-S logo: every theme shows its own logo colour; 6 new themes (Orange, Blue, Pink, Red, Green, Teal); new app icon. Make workflow from the Generate form; last frame → next shot with every video model. Also: Workflows, all 13 Tools, Claude / ChatGPT connection and side panel, Help & manual.",
   "windows": {
-    "build": "2026.11.08.1109",
+    "build": "2026.11.10.1112",
     "file": "downloads/Slopper-Studio-1.1-Experimental-Setup.exe",
     "url": "https://github.com/SakoKiller1986/Slopper-studio-releases/raw/main/downloads/Slopper-Studio-1.1-Experimental-Setup.exe",
-    "size": 7854720,
-    "sha256": "6f7f39660c2fb501c6ad0cf0515ee50a4040c1490ed956f9bf405d6c9e024f24"
+    "size": 11465087,
+    "sha256": "8d9ad4b65a626917095bdf5eabc7a8b1391746bbaa1faef00d739d464b1e6849"
   },
   "mac": {
-    "build": "2026.11.08.1109",
+    "build": "2026.11.10.1112",
     "file": "downloads/Slopper-Studio-1.1-Experimental-Mac.dmg",
     "url": "https://github.com/SakoKiller1986/Slopper-studio-releases/raw/main/downloads/Slopper-Studio-1.1-Experimental-Mac.dmg",
-    "size": 12198918,
-    "sha256": "70e002bdafceb22cd93081ff78baba51b21cbd83ffabbd0007db06830c98c9c3"
+    "size": 15139730,
+    "sha256": "f539ea1d2fa45b8202435b3b9d87220f7fbbfb0ab83523ba0bc71fc653c02623"
   }
 }
