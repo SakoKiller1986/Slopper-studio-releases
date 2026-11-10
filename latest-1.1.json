@@ -1,20 +1,20 @@
 {
   "name": "Slopper Studio 1.1 Experimental",
   "version": "1.1 Experimental",
-  "date": "2026-11-08",
-  "notes": "New pixel-S logo: every theme shows its own logo colour; 6 new themes (Orange, Blue, Pink, Red, Green, Teal); new app icon. Make workflow from the Generate form; last frame → next shot with every video model. Also: Workflows, all 13 Tools, Claude / ChatGPT connection and side panel, Help & manual.",
+  "date": "2026-11-10",
+  "notes": "Everything from 1.0 that was missing is back: Clear… workflows (empty, quick, all, choose which), Show quick generations, right-click menus, ask before costly runs, images/videos at the same time; every Generate is a quick workflow, Open in Generate, Reuse; library days, model filter, favourites, multi-select, add to open workflow; viewer previous/next; player A–B loop, speeds, fit/fill/1:1, save frame, picture-in-picture; Extra API fields, Paint mask in steps, Character pack from an image, Download & install updates.",
   "windows": {
-    "build": "2026.11.10.1112",
+    "build": "2026.11.10.1114",
     "file": "downloads/Slopper-Studio-1.1-Experimental-Setup.exe",
     "url": "https://github.com/SakoKiller1986/Slopper-studio-releases/raw/main/downloads/Slopper-Studio-1.1-Experimental-Setup.exe",
-    "size": 11465087,
-    "sha256": "8d9ad4b65a626917095bdf5eabc7a8b1391746bbaa1faef00d739d464b1e6849"
+    "size": 11661204,
+    "sha256": "29e2d9d14cc5112922a4aa6fdec653b308c62e137eddac2d120c54d94bed7673"
   },
   "mac": {
-    "build": "2026.11.10.1112",
+    "build": "2026.11.10.1114",
     "file": "downloads/Slopper-Studio-1.1-Experimental-Mac.dmg",
     "url": "https://github.com/SakoKiller1986/Slopper-studio-releases/raw/main/downloads/Slopper-Studio-1.1-Experimental-Mac.dmg",
-    "size": 15139730,
-    "sha256": "f539ea1d2fa45b8202435b3b9d87220f7fbbfb0ab83523ba0bc71fc653c02623"
+    "size": 15418432,
+    "sha256": "eac001449a3b3d51ba6cde4379c3261ae38ce7460b3d87072149e3bea2e943df"
   }
 }
