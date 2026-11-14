@@ -1,20 +1,20 @@
 {
-  "name": "Slopper Studio 1.1 Experimental",
-  "version": "1.1 Experimental",
-  "date": "2026-11-10",
-  "notes": "Everything from 1.0 that was missing is back: Clear… workflows (empty, quick, all, choose which), Show quick generations, right-click menus, ask before costly runs, images/videos at the same time; every Generate is a quick workflow, Open in Generate, Reuse; library days, model filter, favourites, multi-select, add to open workflow; viewer previous/next; player A–B loop, speeds, fit/fill/1:1, save frame, picture-in-picture; Extra API fields, Paint mask in steps, Character pack from an image, Download & install updates.",
+  "name": "Slopper Studio 1.2",
+  "version": "1.2",
+  "date": "2026-11-14",
+  "notes": "Slopper Studio 1.2 — no longer experimental. Select workflows to delete (Select, Select all, Ctrl/Shift-click). Costs checked against every provider's current prices (Topview 1080p and reference-video rates, GPT Image 2.6, Seedance 1080p, Wan input video) and the real cost is recorded after each run. New images and videos are saved in the same folders as 1.0. It installs as Slopper Studio 1.2 next to 1.1 Experimental and uses the same keys, settings and library — uninstall 1.1 Experimental afterwards.",
   "windows": {
-    "build": "2026.11.10.1114",
-    "file": "downloads/Slopper-Studio-1.1-Experimental-Setup.exe",
-    "url": "https://github.com/SakoKiller1986/Slopper-studio-releases/raw/main/downloads/Slopper-Studio-1.1-Experimental-Setup.exe",
-    "size": 11661204,
-    "sha256": "29e2d9d14cc5112922a4aa6fdec653b308c62e137eddac2d120c54d94bed7673"
+    "build": "2026.11.14.1200",
+    "file": "downloads/Slopper-Studio-1.2-Setup.exe",
+    "url": "https://github.com/SakoKiller1986/Slopper-studio-releases/raw/main/downloads/Slopper-Studio-1.2-Setup.exe",
+    "size": 11731794,
+    "sha256": "3673d281c98b1d4f8eb4daa30dcb0e65410b8735f8ca87ab3c240701091b73de"
   },
   "mac": {
-    "build": "2026.11.10.1114",
-    "file": "downloads/Slopper-Studio-1.1-Experimental-Mac.dmg",
-    "url": "https://github.com/SakoKiller1986/Slopper-studio-releases/raw/main/downloads/Slopper-Studio-1.1-Experimental-Mac.dmg",
-    "size": 15418432,
-    "sha256": "eac001449a3b3d51ba6cde4379c3261ae38ce7460b3d87072149e3bea2e943df"
+    "build": "2026.11.14.1200",
+    "file": "downloads/Slopper-Studio-1.2-Mac.dmg",
+    "url": "https://github.com/SakoKiller1986/Slopper-studio-releases/raw/main/downloads/Slopper-Studio-1.2-Mac.dmg",
+    "size": 15500173,
+    "sha256": "cbcd85c56fe63fc91c6ed47bdcedf7e43bd82cefe19e025527b5ebed53708d4e"
   }
 }

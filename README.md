@@ -14,11 +14,11 @@ from a master, mark-up edits, storyboards).
 |---|---|---|
 | **Windows 10 / 11** | **[⬇ Slopper Studio Setup.exe](https://github.com/SakoKiller1986/Slopper-studio-releases/raw/main/downloads/Slopper-Studio-Setup.exe)** | 1.0 Beta (build 2026.11.08.6) |
 | **macOS — Alpha Preview** (Apple Silicon M1 or newer, macOS 12+) | **[⬇ Slopper-Studio-Mac.dmg](https://github.com/SakoKiller1986/Slopper-studio-releases/raw/main/downloads/Slopper-Studio-Mac.dmg)** | 1.0 Beta · Mac Alpha Preview (build 2026.11.08.6) |
-| **Windows 10 / 11 — 1.1 Experimental** | **[⬇ Slopper Studio 1.1 Experimental Setup.exe](https://github.com/SakoKiller1986/Slopper-studio-releases/raw/main/downloads/Slopper-Studio-1.1-Experimental-Setup.exe)** | 1.1 Experimental (build 2026.11.10.1114) |
-| **macOS — 1.1 Experimental** (Apple Silicon, macOS 12+) | **[⬇ Slopper Studio 1.1 Experimental.dmg](https://github.com/SakoKiller1986/Slopper-studio-releases/raw/main/downloads/Slopper-Studio-1.1-Experimental-Mac.dmg)** | 1.1 Experimental (build 2026.11.10.1114) |
+| **Windows 10 / 11 — 1.2** | **[⬇ Slopper Studio 1.2 Setup.exe](https://github.com/SakoKiller1986/Slopper-studio-releases/raw/main/downloads/Slopper-Studio-1.2-Setup.exe)** | 1.2 (build 2026.11.14.1200) |
+| **macOS — 1.2 Preview** (Apple Silicon, macOS 12+) | **[⬇ Slopper Studio 1.2.dmg](https://github.com/SakoKiller1986/Slopper-studio-releases/raw/main/downloads/Slopper-Studio-1.2-Mac.dmg)** | 1.2 · Mac Preview (build 2026.11.14.1200) |
 
-### 1.1 Experimental (new)
-A clean-sheet rewrite in Rust — much smaller and faster, with eleven colour themes and API keys kept in your system's keychain. It installs **next to** 1.0 Beta and, on first launch, takes over your keys, settings and library from 1.0 automatically. It has Generate, the library and viewer, Workflows, all the Tools, the Claude / ChatGPT connection and side panel, and eleven themes; local upscaling is still in 1.0 Beta.
+### 1.2 (new)
+A clean-sheet rewrite in Rust — much smaller and faster, with eleven colour themes and API keys kept in your system's keychain. It installs **next to** 1.0 Beta and, on first launch, takes over your keys, settings and library from 1.0 automatically. It has Generate, the library and viewer, Workflows, all the Tools, the Claude / ChatGPT connection and side panel. Coming from 1.1 Experimental? Install 1.2, then uninstall 1.1 Experimental — your keys, settings, workflows and library carry over. Local upscaling is still in 1.0 Beta.
 
 ### Windows
 Run the installer and choose where to install. If Windows says "Windows protected your PC", click **More info → Run anyway**.
